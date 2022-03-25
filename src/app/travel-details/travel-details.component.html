@@ -1,0 +1,39 @@
+<div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Travel Detail Register</h1>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <app-travel-details-form></app-travel-details-form>
+    </div>
+    <div class="col-md-6">
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Contact</th>
+                    <th>Destination</th>
+                    <th>Stay_Period</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let td of service.list">
+                            <td (click)="populateForm(td)">{{td.name}}</td>
+                            <td (click)="populateForm(td)">{{td.email}}</td>
+                            <td (click)="populateForm(td)">{{td.age}}</td>
+                            <td (click)="populateForm(td)">{{td.gender}}</td>
+                            <td (click)="populateForm(td)">{{td.contact}}</td>
+                            <td (click)="populateForm(td)">{{td.destination}}</td>
+                            <td (click)="populateForm(td)">{{td.stayPeriod}}</td>
+                            <td>
+                                <i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(td.id)"></i>
+                            </td>
+                        </tr>
+                    </tbody>
+                    </table>
+        <div>table with list of records from the table</div>
+    </div>
+</div>
+
