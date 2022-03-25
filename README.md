@@ -33,4 +33,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Deletion](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(183).png)
 ![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(184).png)
 ![Web API](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(187).png)
-<img src="https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(187).png" width="128"/>
+<img src="https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(187).png" alt= "WebAPI" width="500"/>
+<img src="https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(184).png" width="500"/>
