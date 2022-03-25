@@ -26,4 +26,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 ## Output screenshots
-![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(181).png)
+![Get Travel data](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(181).png)
+![Post Travel data](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(185).png)
+![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(186).png)
+![Update](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(182).png)
+![Deletion](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(183).png)
+![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(184).png)
+![Web API](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(187).png)
