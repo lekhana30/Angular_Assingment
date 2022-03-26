@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Output Screenshots
-!['Get travel data'](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(191).png)
+![Get travel data](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(191).png)
 ![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(192).png)
 ![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(193).png)
 ![](https://github.com/lekhana30/Angular_Assingment/blob/main/Output/Screenshot%20(194).png)
